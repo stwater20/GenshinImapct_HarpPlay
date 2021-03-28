@@ -30,3 +30,7 @@ MIT
 ## Donate
 
 [https://liker.land/ryan1420/civic](https://liker.land/ryan1420/civic)
+
+## Other Link
+
+[medium](https://54sakuramiku.medium.com/genshinimapct-harpplayer-f8d7c605927)
