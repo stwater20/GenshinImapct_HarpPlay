@@ -9,6 +9,8 @@ The preset interval is a tone of 0.25 seconds, and no sound will be emitted when
 讓程式幫你彈奏一曲吧!
 這是模擬鍵盤輸入的應用。
 
+[https://youtu.be/yLufGfqBQXk](https://youtu.be/yLufGfqBQXk)
+
 
 ## Installation
 
