@@ -26,3 +26,7 @@ And put your sheet music to texteditor then click button.
 ## License
 
 MIT
+
+## Donate
+
+[https://liker.land/ryan1420/civic](https://liker.land/ryan1420/civic)
