@@ -15,7 +15,7 @@ The preset interval is a tone of 0.25 seconds, and no sound will be emitted when
 ## Installation
 
 ```sh
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
 ## How to Use
 ```sh
